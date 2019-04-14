@@ -3,12 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/frozza/NetBeansProjects/ProgConcorrente/src/aula03/ex2/HelloRunnable.java</file>
-            <file>file:/home/frozza/NetBeansProjects/ProgConcorrente/src/aula03/ex2/HelloThread.java</file>
-            <file>file:/home/frozza/NetBeansProjects/ProgConcorrente/src/aula03/ex2/Threads.java</file>
+            <file>file:/home/frozza/NetBeansProjects/ProgConcorrente/src/aula04/ex1/ThreadEncontraPrimo.java</file>
+            <file>file:/home/frozza/NetBeansProjects/ProgConcorrente/src/aula03/parte2/ex1/Threads.java</file>
+            <file>file:/home/frozza/NetBeansProjects/ProgConcorrente/src/aula04/ex1/Primos.java</file>
+            <file>file:/home/frozza/NetBeansProjects/ProgConcorrente/src/aula03/parte2/ex3/InterrompeThread.java</file>
             <file>file:/home/frozza/NetBeansProjects/ProgConcorrente/src/aula03/ex3/CondicaoDisputa.java</file>
-            <file>file:/home/frozza/NetBeansProjects/ProgConcorrente/src/aula03/ex1/RunnableLambda.java</file>
-            <file>file:/home/frozza/NetBeansProjects/ProgConcorrente/src/aula03/ex3/Contador.java</file>
+            <file>file:/home/frozza/NetBeansProjects/ProgConcorrente/src/aula03/parte2/ex2/ThreadLeitura.java</file>
+            <file>file:/home/frozza/NetBeansProjects/ProgConcorrente/src/aula04/ex1/Intervalo.java</file>
         </group>
     </open-files>
 </project-private>
