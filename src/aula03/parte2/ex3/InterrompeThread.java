@@ -24,7 +24,7 @@ public class InterrompeThread extends Thread {
         try {
             System.out.println("Sleep");
             Thread.sleep(tempo);
-            System.out.println("WakeUp");
+            System.out.println("Up");
 
         } catch (InterruptedException ex) {
             Logger.getLogger(ClasseRun.class.getName()).log(Level.SEVERE, null, ex);
