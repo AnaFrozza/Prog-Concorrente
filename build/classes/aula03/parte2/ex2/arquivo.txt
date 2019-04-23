@@ -1,4 +1,0 @@
-Teste de Leitura de aquivo para o ex:
-    Faça uma thread Java que realize a leitura de um arquivo
-    texto com frases e exiba as frases a cada 10 segundos.
-Fim do texto
