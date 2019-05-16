@@ -20,4 +20,11 @@ package aula06a.ex2;
 
 public class Counter {
     
+    public int increment(){
+        return 0;
+    }
+    
+    public void sleepUntil(){
+        
+    }
 }

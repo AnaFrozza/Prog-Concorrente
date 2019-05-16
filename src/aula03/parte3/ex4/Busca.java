@@ -5,8 +5,6 @@
  */
 package aula03.parte3.ex4;
 
-import java.util.ArrayList;
-
 /**
  *
  * @author frozza

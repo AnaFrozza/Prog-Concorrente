@@ -18,6 +18,17 @@ package aula06a.ex3;
  * thread que alcançou deve ser bloqueada.
  */
 
-public class BoundedCounter {
+public class BoundedCounter extends Thread{
+    private int max;
+    private int min;
+    
+    public int increment(){
+        return 0;
+    }
+    
+    public int decrement(){
+        return 0;
+    }
+    
     
 }

@@ -25,7 +25,7 @@ public class Monitor extends Thread{
             while (empty) {
                 try {
                     objMonitor.wait();
-                } catch (Exception e) {
+                } catch (InterruptedException e) {
                     System.out.println("Erro: " + e);
                 }
             }
@@ -40,7 +40,7 @@ public class Monitor extends Thread{
             while (!empty) {
                 try {
                     objMonitor.wait();
-                } catch (Exception e) {
+                } catch (InterruptedException e) {
                     System.out.println("Erro: "+e);
                 }
             }
